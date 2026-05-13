@@ -36,23 +36,6 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itskolbyk&theme=github_dark" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itskolbyk&theme=github_dark&utcOffset=-6" /></td>
-</tr>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskolbyk&theme=github_dark" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itskolbyk&theme=github_dark" /></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskolbyk&theme=github-dark&hide_border=true&area=true&color=8b949e&line=58a6ff&point=58a6ff)
 
 </div>
