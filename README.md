@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=140&section=header&text=Kolby%20Kallweit&fontSize=42&fontColor=c9d1d9&fontAlignY=65&desc=Engineering%20Leader%20%E2%80%A2%20Identity%20AI%20%26%20Zero%20Trust&descAlignY=82&descFontColor=8b949e&descSize=14" />
+# Kolby Kallweit
 
-</div>
-
-<br/>
-
-<div align="center">
+**Engineering Leader &nbsp;·&nbsp; Identity AI & Zero Trust &nbsp;·&nbsp; Springfield, MO**
 
 *"I build organizations, grow leaders, and ship AI products that scale."*
 
 <br/>
 
-[![Website](https://img.shields.io/badge/kolbyk.com-161b22?style=for-the-badge&logo=safari&logoColor=c9d1d9)](https://kolbyk.com)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://linkedin.com/in/kolbyk)
+[![Website](https://img.shields.io/badge/kolbyk.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://kolbyk.com)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kolbyk)
 
 </div>
 
@@ -20,15 +16,36 @@
 
 <div align="center">
 
-`Senior Engineering Manager @ Cisco Duo`&nbsp;&nbsp;·&nbsp;&nbsp;`Identity AI & Zero Trust`&nbsp;&nbsp;·&nbsp;&nbsp;`Board Director`
+`Senior Engineering Manager @ Cisco Duo` &nbsp;·&nbsp; `Identity AI & Zero Trust` &nbsp;·&nbsp; `Board Director`
 
 </div>
 
-<br/><br/>
+<br/>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itskolbyk&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" />
+[![Skills](https://skillicons.dev/icons?i=python,typescript,react,aws,kubernetes,docker,redis,githubactions,raspberrypi&theme=dark&perline=9)](https://skillicons.dev)
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itskolbyk&theme=github_dark" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itskolbyk&theme=github_dark&utcOffset=-6" /></td>
+</tr>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskolbyk&theme=github_dark" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itskolbyk&theme=github_dark" /></td>
+</tr>
+</table>
 
 </div>
 
@@ -36,6 +53,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskolbyk&theme=github-dark&hide_border=true&area=true&color=8b949e&line=58a6ff&point=58a6ff)
 
 </div>
