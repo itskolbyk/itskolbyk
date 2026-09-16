@@ -16,7 +16,7 @@
 
 <div align="center">
 
-`Senior Engineering Manager @ Cisco Duo` &nbsp;·&nbsp; `Identity AI & Zero Trust` &nbsp;·&nbsp; `Board Director`
+`Senior Engineering Manager @ Presidio` &nbsp;·&nbsp; `Identity AI & Zero Trust` &nbsp;·&nbsp; `Board Director`
 
 </div>
 
