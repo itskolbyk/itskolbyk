@@ -2,7 +2,7 @@
 
 # Kolby Kallweit
 
-**Engineering Leader &nbsp;·&nbsp; Identity AI & Zero Trust &nbsp;·&nbsp; Springfield, MO**
+**Engineering Leader &nbsp;·&nbsp; AI for Energy Operations &nbsp;·&nbsp; Springfield, MO**
 
 *"I build organizations, grow leaders, and ship AI products that scale."*
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-`Senior Engineering Manager @ Cisco Duo` &nbsp;·&nbsp; `Identity AI & Zero Trust` &nbsp;·&nbsp; `Board Director`
+`Principal AI Engineer @ Presidio` &nbsp;·&nbsp; `AI for Energy Operations` &nbsp;·&nbsp; `Board Director`
 
 </div>
 
